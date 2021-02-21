@@ -30,7 +30,7 @@ if __name__ == '__main__':
     start = datetime.datetime.now()  # starting time
 
     # PreProcess
-    #PreProcess.PreProcess('MNIST')
+    PreProcess.PreProcess('MNIST')
     # Empty folders
     PreProcess.dir_check(frequency_dir, emptyflag=True)
     PreProcess.dir_check(codebook_dir, emptyflag=True)

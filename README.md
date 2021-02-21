@@ -43,7 +43,7 @@ MNIST: http://yann.lecun.com/exdb/mnist/
 
 ## Main Modules
 - To train a model yourself, you have to first prepare the data as shown in [[Prerequisites for Code]](#prerequisites-for-code)
-- Then, put them into foler 'Dataset\\MNIST'
+- Then, put them into folder 'Dataset\\MNIST'
 - After preparation, you can run 'main.py' to get the cross results by using soft compression algorithm for binary image
 
 ## Other Information
